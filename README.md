@@ -3,10 +3,11 @@
 <div style="display: inline_block"><br>
     <img align="right" alt="MacOS" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
     <img align="right" alt="MacBookPro" src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"/>
-    <br>
-    <img align="right" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <br><br>
+    <img align="right" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+    <!-- <img align="right" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
     <img align="right" alt="Intel" src="https://img.shields.io/badge/Intel-Core-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
-    <br>
+    <br><br>
     <img align="right" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img align="right" alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 </div><br>
