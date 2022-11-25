@@ -15,13 +15,13 @@
           
 #
 
-<div>
+<!-- <div>
   <a href="https://rafaelscnunes.github.io" target="_blank"><img src="https://img.shields.io/website?label=rafaelscnunes.github.io&style=for-the-badge&url=https%3A%2F%2Frafaelscnunes.github.io"></a>
   <a href="https://www.linkedin.com/in/rafaelscnunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frafaelscnunes&screen_name=rafaelscnunes" target="_blank"><img src="https://img.shields.io/twitter/follow/rafaelscnunes?color=1DA1F2&logo=twitter&style=for-the-badge"></a>
 </div>
 
-#
+# -->
 
 <div align="center">
   <a href="https://rafaelscnunes.github.io">
