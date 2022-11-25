@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://rafaelscnunes.github.io">
-  <img heigth="200" src="https://github-readme-stats.vercel.app/api?username=rafaelscnunes&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Rafael's github stats" />
-  <img heigth="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscnunes&layout=compact&langs_count=16&theme=dark" />
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelscnunes&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Rafael's github stats" />
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscnunes&layout=compact&langs_count=16&theme=dark" />
 </div>
 
 #
