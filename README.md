@@ -1,13 +1,12 @@
 ### Hi there 👋
 
 <div style="display: inline_block"><br>
-    <img align="right" alt="MacOS" src="https://img.shields.io/badge/mac_os_15-778899?style=for-the-badge&logo=&logoColor=white"/>
     <img align="right" alt="M1" src="https://img.shields.io/badge/M1-0071C5?style=for-the-badge&logo=&logoColor=white"/>
     <img align="right" alt="MacBookAir" src="https://img.shields.io/badge/MacBook_Air-999999?style=for-the-badge&logo=Apple&logoColor=white"/>
     <br><br>
+    <img align="right" alt="MacOS" src="https://img.shields.io/badge/mac_os-778899?style=for-the-badge&logo=Apple&logoColor=white"/>
     <img align="right" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
-    <!-- <img align="right" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> -->
-    <br><br>
+    <img align="right" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img align="right" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img align="right" alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 </div><br>
