@@ -28,14 +28,14 @@
 
 #
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://rafaelscnunes.github.io">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelscnunes&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Rafael's github stats" />
   </a>
   <a href="https://rafaelscnunes.github.io">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscnunes&layout=compact&langs_count=16&theme=dark" alt="Rafael's top languages" />
   </a>
-</div>
+</div> -->
 
 #
 
@@ -65,7 +65,7 @@
 [github]: https://github.com/rafaelscnunes
 [medium]: https://medium.com/@rafaelscnunes
 [twitter]: https://twitter.com/rafaelscnunes
-[youtube]: https://www.youtube.com/channel/UC3XAcR9KyLrgbsQ3xPCwwGw
+<!-- [youtube]: https://www.youtube.com/channel/UC3XAcR9KyLrgbsQ3xPCwwGw -->
 
 [badges]: https://dev.to/envoy_/150-badges-for-github-pnk#skills
 [icons]: https://devicon.dev
