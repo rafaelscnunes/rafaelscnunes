@@ -11,7 +11,7 @@
     <img align="right" alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
 </div><br> -->
 
-#
+<!-- # -->
 
 <!-- <div style="display: inline_block"><br>
   <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
@@ -26,7 +26,7 @@
   <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div> -->
 
-#
+<!-- # -->
 
 <!-- <div align="center">
   <a href="https://rafaelscnunes.github.io">
@@ -37,18 +37,18 @@
   </a>
 </div> -->
 
-#
+<!-- # -->
 
-<div align="center">
+<!-- <div align="center">
     <!-- <img height="200" src="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-contribution-grid-snake.svg"/> -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake.svg" />
         <img alt="github-snake" src="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake.svg" />
     </picture>
-</div>
+</div> -->
 
-#
+<!-- # -->
 
 [![website](./img/globe-light.svg)](https://rafaelscnunes.github.io#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://rafaelscnunes.github.io#gh-dark-mode-only)
