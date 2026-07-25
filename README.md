@@ -40,7 +40,7 @@
 <!-- # -->
 
 <!-- <div align="center">
-    <!-- <img height="200" src="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-contribution-grid-snake.svg"/> -->
+    <img height="200" src="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-contribution-grid-snake.svg"/>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake.svg" />
