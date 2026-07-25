@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
     <img align="right" alt="M1" src="https://img.shields.io/badge/M1-0071C5?style=for-the-badge&logo=&logoColor=white"/>
     <img align="right" alt="MacBookAir" src="https://img.shields.io/badge/MacBook_Air-999999?style=for-the-badge&logo=Apple&logoColor=white"/>
     <br><br>
@@ -9,11 +9,11 @@
     <img align="right" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
     <img align="right" alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
     <img align="right" alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-</div><br>
+</div><br> -->
 
 #
 
-<div style="display: inline_block"><br>
+<!-- <div style="display: inline_block"><br>
   <img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -24,20 +24,23 @@
   <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</div>
+</div> -->
 
 #
 
 <div align="center">
   <a href="https://rafaelscnunes.github.io">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelscnunes&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Rafael's github stats" />
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscnunes&layout=compact&langs_count=16&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelscnunes&show_icons=true&include_all_commits=true&theme=dark&count_private=true" alt="Rafael's github stats" />
+  </a>
+  <a href="https://rafaelscnunes.github.io">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelscnunes&layout=compact&langs_count=16&theme=dark" alt="Rafael's top languages" />
+  </a>
 </div>
 
 #
 
 <div align="center">
-    <!-- <img heigth="200" src="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-contribution-grid-snake.svg"/> -->
+    <!-- <img height="200" src="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-contribution-grid-snake.svg"/> -->
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://github.com/rafaelscnunes/rafaelscnunes/blob/output/github-snake.svg" />
